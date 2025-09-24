@@ -14,7 +14,7 @@ git clone https://github.com/loununez/Sistema-de-Gestion-de-Tareas-con-API-y-Bas
 cd Sistema-de-Gestion-de-Tareas-con-API-y-Base-de-Datos
 
 **Instala las dependencias:**
-pip install Flask Werkzeug`
+pip install Flask Werkzeug
 
 ## Pruebas de la API
 Puedes usar herramientas como **Postman** o **Thunder Client**
