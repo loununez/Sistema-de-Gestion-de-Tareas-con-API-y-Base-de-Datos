@@ -29,6 +29,9 @@ Puedes usar herramientas como **Postman** o **Thunder Client**
      "usuario": "nombre",
      "contraseña": "1234"
     }
+<img width="1856" height="586" alt="Screenshot 2025-09-23 212914" src="https://github.com/user-attachments/assets/888b33e9-d2bd-4d3a-b646-9ece1c9a54f9" />
+
+  
 
 ## 2. Inicio de Sesión (`POST /login`)
 -   **URL:** `http://127.0.0.1:5000/login`
@@ -39,12 +42,19 @@ Puedes usar herramientas como **Postman** o **Thunder Client**
      "usuario": "nombre",
      "contraseña": "1234"
     }
-    
+<img width="1854" height="586" alt="Screenshot 2025-09-23 213004" src="https://github.com/user-attachments/assets/00b65852-034d-4a45-a498-9479c275599f" />
+
 
 ## 3. Acceso a Tareas (`GET /tareas`)
 -   **URL:** `http://127.0.0.1:5000/tareas`
 -   **Método:** `GET`
 -   **Resultado:** Muestra una página HTML de bienvenida
+<img width="1860" height="593" alt="Screenshot 2025-09-23 213046" src="https://github.com/user-attachments/assets/dbab293b-95dd-42cd-b2ed-d8a0135d0685" />
+
+
+## 3. Prueba database.db
+<img width="1855" height="558" alt="Screenshot 2025-09-23 225738" src="https://github.com/user-attachments/assets/d37efa63-238c-4888-b134-13d5e3b05330" />
+
 
 ## **Respuestas Conceptuales**
 ## 1. ¿Por qué hashear contraseñas?
