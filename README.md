@@ -52,7 +52,7 @@ Puedes usar herramientas como **Postman** o **Thunder Client**
 <img width="1860" height="593" alt="Screenshot 2025-09-23 213046" src="https://github.com/user-attachments/assets/dbab293b-95dd-42cd-b2ed-d8a0135d0685" />
 
 
-## 3. Prueba database.db
+## 3. Prueba database.db con contraseña hasheada
 <img width="1855" height="558" alt="Screenshot 2025-09-23 225738" src="https://github.com/user-attachments/assets/d37efa63-238c-4888-b134-13d5e3b05330" />
 
 
